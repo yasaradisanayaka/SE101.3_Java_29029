@@ -1,0 +1,47 @@
+	*Hello World
+
+
+package com.mycompany.helloworld;
+
+public class Helloworld 
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello World!");
+    }
+}
+
+
+
+
+	*Name and Batch Number
+
+
+package com.mycompany.helloworld;
+
+public class Helloworld 
+{
+    public static void main(String[] args)
+    {
+        System.out.println("YASARA");
+        System.out.println("22.2");
+    }
+}
+
+
+
+
+	*Name and Degree Programme
+
+
+package com.mycompany.helloworld;
+
+public class Helloworld 
+{
+    public static void main(String[] args)
+    {
+        System.out.println("YASARA");
+        System.out.println("Management Information Systems");
+    }
+}
+
